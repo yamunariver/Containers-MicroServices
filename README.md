@@ -17,3 +17,8 @@ Docker is a software platform that allows you to build, test, and deploy Applica
 
 Kubernetes is open source software that allows you to deploy and manage containerized Applications at scale. Kubernetes manages clusters of Amazon EC2 Compute instances and runs Containers on those instances with processes for deployment, maintenance, and scaling. Using Kubernetes, you can run any type of containerized Applications using the same toolset on-premises and in the cloud.
 
+
+## JSON
+
+JavaScript Object Notation, more commonly known by the acronym JSON, `is an open data interchange format that is both human and machine-readable.` Despite the name JavaScript Object Notation, JSON is independent of any programming language and is a common API output in a wide variety of Applications.
+
